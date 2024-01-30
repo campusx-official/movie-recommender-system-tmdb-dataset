@@ -1,4 +1,5 @@
 import pickle
+import numpy
 import streamlit as st
 import requests
 
